@@ -117,5 +117,27 @@ How do I reset my password securely?
 
 <img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/1f6d1149-8ff1-4e83-aa45-e5993bf19670" />
 
+18. On the **Channels** screen, click **Microsoft 365 and Microsoft Teams** and click **See agent in Teams**.
 
+<img width="1694" height="881" alt="image" src="https://github.com/user-attachments/assets/b754b39e-d367-49ee-a27b-255a8be1fa73" />
+
+19. Let's stay in the browser, click **Cancel** on the **This site is trying to open Microsoft Teams prompt**, and then click **Use the web app instead**.
+
+<img width="1704" height="541" alt="image" src="https://github.com/user-attachments/assets/4170a76a-b146-480f-8ae5-d3f9ea3ce7df" />
+
+20. Click **Add** on the **Contoso Tech Support Pro** prompt.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/f90d1437-6fa3-4461-bd66-9dd3ad64e356" />
+
+21. After it installs, click **Open**.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/e84a44f4-07c4-4136-a326-931c6879ca84" />
+
+22. Let's do a quick test of the agent we've created. Click the prompt **Cybersecurity Advice**, and submit the prompt.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/c9f89ff0-10df-4fe6-a33f-d333adbf3e93" />
+
+23. Our agent will then respond.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/03c5488d-e1a7-41ee-ab67-94dc67d5afdc" />
 
