@@ -71,3 +71,39 @@ Prompt
 ```
 I need help installing a new application on my computer.
 ```
+**Prompt No. 3**
+
+Title
+
+```
+Explain IT Terms
+```
+Prompt
+
+```
+Can you explain what a VPN is and why I might need one?
+```
+**Prompt No. 4**
+
+Title
+
+```
+Resolve Printer Problem
+```
+Prompt
+
+```
+My printer isn't working. Can you help me fix it?
+```
+**Prompt No. 5**
+
+Title
+
+```
+Password Reset Guidance
+```
+Prompt
+
+```
+How do I reset my password securely?
+```
