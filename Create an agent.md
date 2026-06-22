@@ -1,3 +1,11 @@
+**Contents**
+
+[3.1 Create an agent](https://github.com/mattruma/Lab-03-Create-Your-First-Agent/blob/main/Create%20an%20agent.md#31-create-an-agent)
+
+[3.2 Create and add a prompt for your agent](https://github.com/mattruma/Lab-03-Create-Your-First-Agent/blob/main/Create%20an%20agent.md#32-create-and-add-a-prompt-for-your-agent)
+
+[3.3 Update instructions and test your agent](https://github.com/mattruma/Lab-03-Create-Your-First-Agent/blob/main/Create%20an%20agent.md#33-update-instructions-and-test-your-agent)
+
 # 3.1 Create an agent
 
 1. Navigate to https://copilotstudio.microsoft.com.
