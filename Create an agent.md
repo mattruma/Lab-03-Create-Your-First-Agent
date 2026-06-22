@@ -1,3 +1,5 @@
+# 3.1 Create an agent
+
 1. Navigate to https://copilotstudio.microsoft.com.
 2. Select **Agents** from the menu and select **Create blank agent**.
    
@@ -140,4 +142,19 @@ How do I reset my password securely?
 23. Our agent will then respond.
 
 <img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/03c5488d-e1a7-41ee-ab67-94dc67d5afdc" />
+
+# 3.2 Create and add a prompt for your agent
+
+1. Click **Tools**.
+
+<img width="1694" height="800" alt="image" src="https://github.com/user-attachments/assets/3289a6cb-3f0e-4c34-9162-1ba4b83bc174" />
+
+2. Click **Add a tool**.
+3. Since we are going to add a Prompt, select **Prompt** under **Create new**.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be87727-e47c-4cb3-b225-1fce24fc11f1" />
+
+4. The Prompt modal appears, this is where we can define our prompt for our agent. Enter a name for the prompt. Let's name our prompt `IT Expert`.
+
+
 
