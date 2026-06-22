@@ -194,6 +194,93 @@ I need an IT expert that can help answer questions related to networking, comput
 
 <img width="1003" height="996" alt="image" src="https://github.com/user-attachments/assets/232770fd-4594-4488-9ccc-36d88f7af165" />
 
+12. Select the prompt template link, **Browse prompt library**.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/46543a4c-c815-46ce-adf5-f26ee988a59d" />
+
+13. Search for the IT expert prompt and select it.
+
+<img width="1694" height="678" alt="image" src="https://github.com/user-attachments/assets/bf0f994f-0cf8-48f1-a2f6-6aad0a3f2956" />
+
+14. The prompt will then be added as the instructions with the input parameter as defined by the prompt template. Similar to the approach we took when providing instructions for our agent during the conversational creation experience with Copilot, this prompt template outlines
+
+  - a task,
+  - what type of inquiries it can handle,
+  - and the format of its response and the goal of the prompt.
+
+ <img width="971" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb1356ee-f56c-4497-a45f-a49ae22c1931" />
+  
+15. Clear the instructions and we'll next try manually entering the instructions. Copy and paste the prompt.
+
+```
+I want you to act as an IT Expert. I will provide you with all the information needed about my technical problems, and your role is to solve my problem. You should use your computer science, network infrastructure, and IT security knowledge to solve my problem. Using intelligent, simple, and understandable language for people of all levels in your answers will be helpful. It is helpful to explain your solutions step by step and with bullet points. Try to avoid too many technical details, but use them when necessary. I want you to reply with the solution, not write any explanations. My problem is [Problem]
+```
+
+16. Next, we can define the user input parameters of our prompt. These can be text and images, and sample data to test with. There's also the capability to ground the prompt with knowledge from Dataverse tables. For this exercise, we only have one user input to define which is the problem input. This is currently a placeholder in our prompt as [Problem]. We'll now configure this input either by entering the / character or selecting **+ Add content** and then select **Text**.
+
+<img width="1162" height="1080" alt="image" src="https://github.com/user-attachments/assets/8ca4fd0b-fb5f-4591-bbdd-221a0cd4fdfb" />
+
+17. We can now enter a name for our input parameter and sample data.
+
+Enter the following as the name
+
+```
+Problem Input
+```
+Enter the following as the sample data
+
+```
+My laptop restarted unexpectedly. Any advice?
+```
+
+<img width="1694" height="621" alt="image" src="https://github.com/user-attachments/assets/dfb9e0d6-2a3c-4628-9783-3e9407ab787a" />
+
+18. The problem input parameter will now be added to the instructions with the configured sample data. We can now test our prompt! Select **Test** to the test the prompt.
+
+19. The response will then display. Notice how the response provides headings with bullet points as per the instructions. Scroll down and review the remainder of the model response.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/5f55d40d-d1a3-4d37-a7d1-6bfc92000e6e" />
+
+20. Before we save our prompt, let's learn about the settings that can be configured for this prompt. Select the **ellipsis (...) icon**.
+
+<img width="1093" height="612" alt="image" src="https://github.com/user-attachments/assets/0207a75d-c625-43a8-9d13-aa34bc83d20e" />
+
+21. Here we'll see several settings that can be configured.
+
+  - **Temperature**: Lower temperatures lead to predictable results, while higher temperatures allow more diverse or creative responses.
+  - **Record retrieval**: Specify the number of records retrieved for your knowledge sources.
+  - **Include links in the response**: When selected, the response includes link citations for the retrieved records.
+  - **Enable code interpreter**: When this option is turned on, the code interpreter feature becomes active, allowing the agent to generate and run code.
+  - **Content moderation level**: Lower content‑moderation levels allow more answers but increase the risk of harmful content. Higher moderation levels apply stricter filtering, reducing harmful content but also producing fewer answers.
+
+22. Select the **X** icon to exit from **Settings**.
+
+<img width="1045" height="1080" alt="image" src="https://github.com/user-attachments/assets/99055f45-a1a4-41d4-90f8-53ca41277509" />
+
+23. Select **Save** to save the prompt.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b386384-8afe-409e-b2e8-d2b71eb80a65" />
+
+24. Next, select **Add and configure** to add the prompt to our declarative agent.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3495233-1668-4c66-86f3-1a9b6074fedb" />
+
+25. The prompt will now appear under **Tools** 🙌🏻
+    
+# 3.3 Update instructions and test your agent
+
+1. Click on the **Overview** tab and **select** Edit next to **Instructions**.
+
+2. We can now update our instructions to invoke our prompt by referencing the name of the prompt. Clear the instructions, then copy and paste the following.
+
+```
+When a user asks IT related questions such as questions on their device, run the /IT Expert. Use their question as the problem input of the /IT Expert.
+```
+
+3. Remove /IT Expert, and then enter a `/`, select the tool, `IT Expert`. Click **Save**.
+
+<img width="1694" height="611" alt="image" src="https://github.com/user-attachments/assets/a54a5c08-88bd-4f1d-8606-44fcc2d27880" />
 
 
-   
+
+
