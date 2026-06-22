@@ -281,6 +281,18 @@ When a user asks IT related questions such as questions on their device, run the
 
 <img width="1694" height="611" alt="image" src="https://github.com/user-attachments/assets/a54a5c08-88bd-4f1d-8606-44fcc2d27880" />
 
+4. We're now ready to test our updated instructions of our agent. Select the refresh icon in the test pane.
 
+<img width="1817" height="624" alt="image" src="https://github.com/user-attachments/assets/11e9fcd2-9b39-4659-a1cb-957c908e4631" />
+
+5. Next, enter the following prompt below and submit.
+
+```
+My laptop restarted unexpectedly. Any advice?
+```
+
+6. The response will display and you will be able to see that our prompt was used.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/30e2465b-8db9-4313-bad9-84da9ce3802b" />
 
 
