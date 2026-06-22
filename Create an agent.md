@@ -1,4 +1,4 @@
-# 3.1 Create an agent
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/ae9811fd-488b-43f7-a918-1a25a62ac6ee" /># 3.1 Create an agent
 
 1. Navigate to https://copilotstudio.microsoft.com.
 2. Select **Agents** from the menu and select **Create blank agent**.
@@ -295,4 +295,42 @@ My laptop restarted unexpectedly. Any advice?
 
 <img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/30e2465b-8db9-4313-bad9-84da9ce3802b" />
 
+3.4 Publish your agent to Microsoft Teams
 
+1. Select **Publish** so Microsoft Teams has the latest updates.
+
+2. Select **Force newest version** and then click **Publish**.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/e4513a75-7848-4b84-bb64-d08e861b43fa" />
+
+3. On the **Channels** screen, click **Microsoft 365 and Microsoft Teams** and click **See agent in Teams**.
+
+<img width="1694" height="881" alt="image" src="https://github.com/user-attachments/assets/b754b39e-d367-49ee-a27b-255a8be1fa73" />
+
+4. Let's stay in the browser, click **Cancel** on the **This site is trying to open Microsoft Teams prompt**, and then click **Use the web app instead**. 
+
+5. Click **Add** on the **Contoso Tech Support Pro** prompt.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/e0f764b6-3667-40c0-acaa-df3d593ace29" />
+
+6. Click **Open** again.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/d46af5f9-6fed-4534-aa37-42f65bb691a3" />
+
+7. Click **View prompts** and select **Explain IT Terms**.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/91784eae-d991-4d4f-a8a7-f2f7ad370e2b" />
+
+8. Submit the prompt.
+
+<img width="1695" height="670" alt="image" src="https://github.com/user-attachments/assets/b8122ad7-ca52-4a9a-9e04-88197a7ad780" />
+ 
+9. The agent will then invoke our IT Expert prompt and we'll see the model response returned as a message in our declarative agent.
+
+10. Submit the following question to invoke the prompt.
+
+```
+My laptop restarted unexpectedly. Any advice?
+```
+
+11. We'll again see a model response from our IT Expert prompt again returned as a message.
