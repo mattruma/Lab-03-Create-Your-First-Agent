@@ -107,3 +107,15 @@ Prompt
 ```
 How do I reset my password securely?
 ```
+14. Click **Save**.
+15. Let's publish our agent so we can see the prompts in action. Select **Channels**.
+    
+<img width="1694" height="576" alt="image" src="https://github.com/user-attachments/assets/01b86757-e439-4df9-a80f-844256396406" />
+
+16. Click **Microsoft 365 and Microsoft Teams**.
+17. Click **Add channel**, and then click **Publish**.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/1f6d1149-8ff1-4e83-aa45-e5993bf19670" />
+
+
+
