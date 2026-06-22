@@ -156,5 +156,44 @@ How do I reset my password securely?
 
 4. The Prompt modal appears, this is where we can define our prompt for our agent. Enter a name for the prompt. Let's name our prompt `IT Expert`.
 
+<img width="904" height="240" alt="image" src="https://github.com/user-attachments/assets/2e4a24a2-3e18-492a-872d-c6daddcf0495" />
+
+5. Select the **chevron icon** next to the **Model** to see the different chat models you can choose from. The default model select is **Basic GPT-4.1 mini**. You'll see a list of OpenAI models and Anthropic models that you can select from. You also have the option to bring-your-own-model using Microsoft Foundry Models. We'll stick with the selected default model.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/088c261a-dc7d-4609-99ef-8fbb67f558c8" />
+
+6. Next, we'll provide our prompt with instructions. There's 3 methods that you can choose from
+
+  - Use Copilot to generate instructions for you based on your description of what you want the prompt to do.
+  - Use a preset template from the prompt library to create a prompt.
+  - Manually enter your own instructions.
+
+7. Let's first try using Copilot to generate instructions based on a description entered. Enter the following into the Copilot field and submit.
+
+```
+I need an IT expert that can help answer questions related to networking, computer systems, user devices and anything else IT related
+```
+
+<img width="1078" height="967" alt="image" src="https://github.com/user-attachments/assets/0f00c6a9-0b93-44a2-abbf-24cb5d0a69c3" />
+
+8. Copilot will then begin to generate a prompt for us.
+
+<img width="1007" height="970" alt="image" src="https://github.com/user-attachments/assets/842dea79-4ea5-463b-869e-b9fbb80c9ee5" />
+
+9. The Copilot generated draft instructions will then appear.
+
+<img width="1003" height="996" alt="image" src="https://github.com/user-attachments/assets/04eea93c-eebe-47b1-b28d-9b286c796158" />
+
+10. Scroll down to the bottom of the instructions and you'll see the user input parameter already defined by Copilot. You then have the option to
+
+  - Keep the draft instructions generated.
+  - Refresh the draft instructions using Copilot.
+  - Clear the draft instructions.
+
+11. Clear the draft instructions by selecting the trash bin icon and we'll next try the prompt library.
+
+<img width="1003" height="996" alt="image" src="https://github.com/user-attachments/assets/232770fd-4594-4488-9ccc-36d88f7af165" />
 
 
+
+   
