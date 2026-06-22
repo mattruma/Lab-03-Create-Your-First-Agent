@@ -334,3 +334,9 @@ My laptop restarted unexpectedly. Any advice?
 ```
 
 11. We'll again see a model response from our IT Expert prompt again returned as a message.
+
+12. If we navigate to the **Analytics** tab in our agent, we can see that the IT Export tool was invoked.
+
+<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/6e61c487-0056-4152-bdc3-e716e8209a75" />
+
+13. In a few minutes, you've learnt how to publish your  agent and use it in Microsoft Teams 😊
