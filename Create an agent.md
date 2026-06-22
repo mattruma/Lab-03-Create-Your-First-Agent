@@ -1,4 +1,4 @@
-<img width="1695" height="1233" alt="image" src="https://github.com/user-attachments/assets/ae9811fd-488b-43f7-a918-1a25a62ac6ee" /># 3.1 Create an agent
+# 3.1 Create an agent
 
 1. Navigate to https://copilotstudio.microsoft.com.
 2. Select **Agents** from the menu and select **Create blank agent**.
