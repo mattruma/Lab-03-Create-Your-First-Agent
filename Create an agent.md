@@ -6,7 +6,7 @@
 
 [3.3 Update instructions and test your agent](https://github.com/mattruma/Lab-03-Create-Your-First-Agent/blob/main/Create%20an%20agent.md#33-update-instructions-and-test-your-agent)
 
-[3.4 Publish your agent to Microsoft Teams](https://github.com/mattruma/Lab-03-Create-Your-First-Agent/blob/main/Create%20an%20agent.md#33-update-instructions-and-test-your-agent)
+[3.4 Publish your agent to Microsoft Teams](https://github.com/mattruma/Lab-03-Create-Your-First-Agent/blob/main/Create%20an%20agent.md#34-publish-your-agent-to-microsoft-teams))
 
 # 3.1 Create an agent
 
